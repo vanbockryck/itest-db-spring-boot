@@ -1,4 +1,4 @@
-package be.tekfoudry.itest.db.springboot;
+package be.tekfoundry.itest.db.springboot;
 
 import org.jetbrains.annotations.NotNull;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package be.tekfoudry.itest.db.springboot;
+package be.tekfoundry.itest.db.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

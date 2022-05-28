@@ -8,7 +8,7 @@
         <version>2.7.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>be.tekfoudry</groupId>
+    <groupId>be.tekfoundry</groupId>
     <artifactId>itest-db-spring-boot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>itest-db-spring-boot</name>
